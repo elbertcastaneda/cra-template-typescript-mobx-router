@@ -1,0 +1,28 @@
+{
+  "name": "cra-template-typescript-mobx",
+  "version": "1.0.0",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template",
+    "typescript",
+    "mobx"
+  ],
+  "main": "template.json",
+  "description": "TypeScript, Mobx, Sass, Axios,React Router Dom template for Create React App",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mustafademirtas/cra-template-typescript-mobx.git"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=10"
+  },
+  "bugs": {
+    "url": "https://github.com/facebook/create-react-app/issues"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
+}
